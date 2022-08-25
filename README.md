@@ -31,17 +31,17 @@
 [//]: # (Make this better in the future)
 
 ### Some of my CTF Rankings:
-Bangladesh UCD'22 - 40th (Team  NMOSS)
-SHELLCTF'22 - 156th (Solo)
-GoogleCTF'22 - 235th (Team NMOSS)
-CorCTF'22 - 287th (Solo)
-Arab Security Cyber Wargames '22 - 220th (Solo)
+Bangladesh UCD'22 - 40th (Team  NMOSS)<br>
+SHELLCTF'22 - 156th (Solo)<br>
+GoogleCTF'22 - 235th (Team NMOSS)<br>
+CorCTF'22 - 287th (Solo)<br>
+Arab Security Cyber Wargames '22 - 220th (Solo)<br>
 
 ### Hardware Projects:
-'Gambit' - A Rescue and Recovery Bot (Apr 2022) [Available in repo]
-'Mains to Dual DC 12V Power Supply' (Aug 2022) [Work in progress...]
+'Gambit' - A Rescue and Recovery Bot (Apr 2022) [Available in repo]<br>
+'Mains to Dual DC 12V Power Supply' (Aug 2022) [Work in progress...]<br>
 
 ### Software Projects:
-L-Layer Regression Deep Learning Model to Identify Cats (June 2020) [Work in progress...]
+L-Layer Regression Deep Learning Model to Identify Cats (June 2020) [Work in progress...]<br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
