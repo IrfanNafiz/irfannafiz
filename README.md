@@ -6,7 +6,7 @@
 🔭 I’m currently working on **CyberSecurity and Machine Learning**<br>👯 I’m looking to collaborate on **research in CyberSecurity, Hardware Security and Machine Learning**<br>🌱 I’m currently learning **Electrical Simulation Softwares**<br>💬 Ask me about **Machine Learning, Electronics, Computer Architecture, Hardware, CyberSecurity**<br>⚡ Fun fact **I love working out, playing videogames and chilling out with some good tea by the side!**
 
 
-###🌐 Socials:
+### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irfanislive) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irfannafizshahan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCMYMyi-OSuUjkStrzN4bdsA) 
 
 ### 💻 Tech Stack:
