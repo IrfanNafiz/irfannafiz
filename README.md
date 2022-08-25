@@ -30,7 +30,7 @@
 
 [//]: # (Make this better in the future)
 
-### Some of my CTF Rankings:
+### Recent CTF Rankings:
 Bangladesh UCD'22 - 40th (Team  NMOSS)<br>
 SHELLCTF'22 - 156th (Solo)<br>
 GoogleCTF'22 - 235th (Team NMOSS)<br>
