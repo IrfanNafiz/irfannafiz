@@ -39,9 +39,10 @@ Arab Security Cyber Wargames '22 - 220th (Solo)<br>
 
 ### Hardware Projects:
 'Gambit' - A Rescue and Recovery Bot (Apr 2022) [Available in repo]<br>
-'Mains to Dual DC 12V Power Supply' (Aug 2022) [Work in progress...]<br>
+'Mains to Dual DC 12V Power Supply' (Aug 2022) [Link Missing]<br>
 
 ### Software Projects:
-L-Layer Regression Deep Learning Model to Identify Cats (June 2020) [Work in progress...]<br>
+L-Layer Regression Deep Learning Model to Identify Cats (June 2020) [Link Missing]<br>
+Solar System N-body Simulator with Unity Engine (June 2021) [Link Missing]<br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
