@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irfan Nafiz Shahan</h1>
-<h3 align="center"> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&duration=2000&pause=500&color=0183FF&width=435&lines=ElectE+Undergraduate;Hacker;CyberSec+Enthusiast;ML%2FAI+Enthusiast)](https://git.io/typing-svg) 
-</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&duration=2000&pause=500&color=0183FF&width=435&lines=ElectE+Undergraduate;Hacker;CyberSec+Enthusiast;ML%2FAI+Enthusiast)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfannafiz&label=Profile%20views&color=0e75b6&style=flat" alt="irfannafiz" /> </p>
 
