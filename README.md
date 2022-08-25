@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfannafiz&label=Profile%20views&color=0e75b6&style=flat" alt="irfannafiz" /> </p>
 
-# 💫 About Me:
+# I am a [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&duration=2000&pause=500&color=0183FF&width=435&lines=ElectE+Undergraduate;Hacker;CyberSec+Enthusiast;ML%2FAI+Enthusiast)](https://git.io/typing-svg)
 🔭 I’m currently working on **CyberSecurity and Machine Learning**<br>👯 I’m looking to collaborate on **research in CyberSecurity, Hardware Security and Machine Learning**<br>🌱 I’m currently learning **CyberSecurity, Machine Learning and Electrical Simulation Softwares**<br>💬 Ask me about **Machine Learning, Electronics, Computer Architecture, Hardware, CyberSecurity**<br>⚡ Fun fact **I love working out, playing videogames on the side and chilling out with some good tea by the side!**
 
 
