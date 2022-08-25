@@ -1,3 +1,5 @@
+
+[//]: # (README made with https://gprm.itsvg.in/ and some customization, the svg is made by https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Irfan Nafiz Shahan</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=2000&pause=500&color=0183FF&width=435&lines=ElectE+Undergraduate;Hacker;CyberSec+Enthusiast;ML%2FAI+Enthusiast;Programmer)](https://git.io/typing-svg)
