@@ -3,7 +3,7 @@
 
 [//]: # (<meta name="google-site-verification" content="uvxi10l8J-97LmEIjcdHjehpRowt0oygUn6lnn8lfCc" />)
 
-<h1 align="center">Hi 👋, I'm Irfan Nafiz Shahan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Irfan Nafiz Shahan</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=2000&pause=500&color=0183FF&width=435&lines=ElectE+Undergraduate;Hacker;CyberSec+Enthusiast;ML%2FAI+Enthusiast;Programmer)](https://git.io/typing-svg)
 
