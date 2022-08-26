@@ -5,11 +5,11 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Irfan Nafiz Shahan</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=2000&pause=500&color=0183FF&width=435&lines=ElectE+Undergraduate;Hacker;CyberSec+Enthusiast;ML%2FAI+Enthusiast;Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=2000&pause=500&color=2285F7&width=435&lines=ElectE+Undergrad;Hacker;Robotician;CyberSec+Enthusiast;ML%2FAI+Enthusiast)](https://git.io/typing-svg)
 
 ### Bio:
 🏢 I'm currently studying at Shahjalal University of Science & Technology<br>
-👯 Looking to collaborate on **research/projects in CyberSecurity, Hardware Security and Machine Learning**<br>
+👯 Looking to collaborate on **research/projects in CyberSecurity, Robotics, Hardware Security and Machine Learning**<br>
 🌱 Currently learning **Electrical Simulation Softwares**<br>
 💬 Ping me about **anything**<br>
 ⚡ Fun fact: **I love working out, playing videogames and chilling out with some good tea by the side!**
