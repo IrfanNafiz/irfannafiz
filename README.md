@@ -45,4 +45,3 @@ Arab Security Cyber Wargames '22 - 220th (Solo)<br>
 L-Layer Regression Deep Learning Model to Identify Cats (June 2020) [Link Missing]<br>
 Solar System N-body Simulator with Unity Engine (June 2021) [Link Missing]<br>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
