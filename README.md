@@ -31,17 +31,17 @@
 [//]: # (Make this better in the future)
 
 ### Recent CTF Rankings:
-Bangladesh UCD'22 - 40th (Team  NMOSS)<br>
-SHELLCTF'22 - 156th (Solo)<br>
-GoogleCTF'22 - 235th (Team NMOSS)<br>
-CorCTF'22 - 287th (Solo)<br>
-Arab Security Cyber Wargames '22 - 220th (Solo)<br>
+Bangladesh UCD'22 - 40th            (Team  NMOSS)<br>
+SHELLCTF'22 - 156th worldwide       (Solo)<br>
+GoogleCTF'22 - 235th worldwide      (Team NMOSS)<br>
+CorCTF'22 - 287th worldwide         (Solo)<br>
+ASCWG '22 - 220th worldwide         (Solo)<br>
 
 ### Hardware Projects:
 'Gambit' - A Rescue and Recovery Bot (Apr 2022) [Available in repo]<br>
-'Mains to Dual DC 12V Power Supply' (Aug 2022) [Link Missing]<br>
+'Mains to Dual DC 12V Power Supply' (Aug 2022)  [Link Missing]<br>
 
 ### Software Projects:
 L-Layer Regression Deep Learning Model to Identify Cats (June 2020) [Link Missing]<br>
-Solar System N-body Simulator with Unity Engine (June 2021) [Link Missing]<br>
+Solar System N-body Simulator with Unity Engine         (June 2021) [Link Missing]<br>
 
