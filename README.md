@@ -38,7 +38,7 @@
 | CorCTF '22               | 287th  | Solo  |
 | ASCWG '22                | 220th  | Solo  |
 | HTB: CyberApocalyse '22  | 970th  | NMOSS |
-| ------------------------ | ------ | ----- |
+
 See all rankings on CTFtime.org [here](https://ctftime.org/team/187336).
 
 ### Hardware Projects:
