@@ -18,6 +18,8 @@
 ### TODOs for 2022: 
 - [ ] Learn LTSpice Simulation 
 - [ ] Learn ANSYS Simulation 
+- [ ] Learn COMSOL Multiphysics Simulation 
+- [ ] Learn Lumerical Photonics Simulation 
 - [ ] Finish EMFW book by David K Cheng - 0/11 Chapters Down
 - [ ] Read 5 papers on MicroArch Security by Claudio Canella - 0/5 Papers Down
 - [ ] Learn Verilog/VDHL 
