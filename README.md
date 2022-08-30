@@ -30,12 +30,16 @@
 
 [//]: # (Make this better in the future)
 
-### Recent CTF Rankings:
-Bangladesh UCD'22 - 40th            (Team  NMOSS)<br>
-SHELLCTF'22 - 156th worldwide       (Solo)<br>
-GoogleCTF'22 - 235th worldwide      (Team NMOSS)<br>
-CorCTF'22 - 287th worldwide         (Solo)<br>
-ASCWG '22 - 220th worldwide         (Solo)<br>
+### Recent CTF Rankings: 
+| Contest                  | Rank   | Team  |
+| ------------------------ | ------ | ----- |
+| Bangladesh UCD'22        | 40th   | NMOSS |        |
+| SHELLCTF'22              | 156th  | Solo  |
+| GoogleCTF'22             | 235th  | NMOSS |
+| CorCTF'22                | 287th  | Solo  |
+| ASCWG '22                | 220th  | Solo  |
+| HTB: CyberApocalyse '22  | 970th  | NMOSS |
+
 
 ### Hardware Projects:
 'Gambit' - A Rescue and Recovery Bot (Apr 2022) [Available in repo]<br>
