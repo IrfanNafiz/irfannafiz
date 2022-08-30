@@ -20,6 +20,7 @@
 - [ ] Learn ANSYS Simulation 
 - [ ] Learn COMSOL Multiphysics Simulation 
 - [ ] Learn Lumerical Photonics Simulation 
+- [ ] Work on creating a medical imaging CNN ML model
 - [ ] Finish EMFW book by David K Cheng - 0/11 Chapters Down
 - [ ] Read 5 papers on MicroArch Security by Claudio Canella - 0/5 Papers Down
 - [ ] Learn Verilog/VDHL 
