@@ -33,7 +33,7 @@
 
 [//]: # (Make this better in the future)
 
-### Recent CTF Rankings: 
+### Recent CTF Hacker Rankings: 
 | Contests (International) | Rank   | Team  |
 | ------------------------ | ------ | ----- |
 | SHELLCTF '22             | 156th  | Solo  |
