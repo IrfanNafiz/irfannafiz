@@ -10,7 +10,7 @@
 ### Bio:
 - 🏢 I'm currently a sophomore at Shahjalal University of Science & Technology<br>
 - 👯 Looking to collaborate on **research/projects in CyberSecurity, Robotics, Hardware Security and Machine Learning**<br>
-- 🌱 Currently learning **Electrical Simulation Softwares**<br>
+- 🌱 Currently learning **Electrical Simulation Softwares, and CyberSecurity**<br>
 - 💬 Ping me about **anything**<br>
 - ⚡ Fun fact: **I love working out, playing videogames and chilling out with some good tea by the side!**
 
