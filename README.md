@@ -47,9 +47,10 @@ See all rankings on CTFtime.org [here](https://ctftime.org/team/187336).
 ### Hardware Projects:
 - 'Gambit' - A Rescue and Recovery Bot    (Apr 2022)   [Available in repo]<br>
 - 'Mains to Dual DC 12V Power Supply'     (Aug 2022)   [Link Missing]<br>
-- '8-bit Computer Simulation + Breadboard Implementation'  (Sep 2022)   [Work in progress...]<br>
+- '8-bit Computer Simulation + Breadboard Implementation'  (Sep 2022)   [Work in progress...] <br>
 
 ### Software Projects:
-- L-Layer Regression Deep Learning Model to Identify Cats (June 2020) [Link Missing]<br>
-- Solar System N-body Simulator with Unity Engine         (June 2021) [Link Missing]<br>
+- L-Layer Regression Deep Learning Model to Identify Cats (June 2020) [Link Missing] <br>
+- Solar System N-body Simulator with Unity Engine         (June 2021) [Link Missing] <br>
+- A 3D platformer game with BulletTime mechanics in Unity (June 2020) [Link Missing] <br>
 
