@@ -15,14 +15,14 @@
 - ⚡ Fun fact: **I love working out, playing videogames and chilling out with some good tea by the side!**
 
 [//]: # ([ ] or [x])
-### TODOs for 2022: 
+### TODOs for Q4 2022: 
 - [ ] Learn LTSpice Simulation 
 - [ ] Learn ANSYS Simulation 
 - [ ] Learn COMSOL Multiphysics Simulation 
 - [ ] Learn Lumerical Photonics Simulation 
 - [ ] Work on creating a medical imaging CNN ML model
-- [ ] Finish EMFW book by David K Cheng - 0/11 Chapters Down
-- [ ] Read 5 papers on MicroArch Security by Claudio Canella - 0/5 Papers Down
+- [ ] Finish EMFW book by David K Cheng - 2/11 Chapters Down
+- [ ] Read 5 papers on MicroArch Security by Claudio Canella - 1/5 Papers Down
 - [ ] Learn Verilog/VDHL 
 - [ ] Finish atleast 1 HTB Machine
 - [ ] Stop procrastinating on my 8-bit computer project haha
