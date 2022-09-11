@@ -17,7 +17,6 @@
 [//]: # ([ ] or [x])
 ### TODOs for Q4 2022: 
 - [ ] Learn LTSpice Simulation 
-- [ ] Learn ANSYS Simulation 
 - [ ] Learn COMSOL Multiphysics Simulation 
 - [ ] Learn Lumerical Photonics Simulation 
 - [ ] Work on creating a medical imaging CNN ML model
