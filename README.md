@@ -20,12 +20,14 @@
 - [ ] Learn COMSOL Multiphysics Simulation 
 - [ ] Learn Lumerical Photonics Simulation 
 - [ ] Work on creating a medical imaging CNN ML model
+- [x] Learn to use SchemDraw python
 - [ ] Finish EMFW book by David K Cheng - 2/11 Chapters Down
 - [ ] Read 5 papers on MicroArch Security by Claudio Canella - 1/5 Papers Down
 - [ ] Learn Verilog/VDHL 
 - [ ] Finish atleast 1 HTB Machine
 - [ ] Stop procrastinating on my 8-bit computer project haha
 - [ ] Finish Incident Response and Forensics from TryHackMe
+- [ ] Slowly but surely note down all ctf writeups I completed (1/day)
 
 ### Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irfanislive) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irfannafizshahan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCMYMyi-OSuUjkStrzN4bdsA) 
@@ -52,4 +54,5 @@ See all rankings on CTFtime.org [here](https://ctftime.org/team/187336).
 - L-Layer Regression Deep Learning Model to Identify Cats (June 2020) [Link Missing] <br>
 - Solar System N-body Simulator with Unity Engine         (June 2021) [Link Missing] <br>
 - A 3D platformer game with BulletTime mechanics in Unity (June 2020) [Link Missing] <br>
+- Voxel based Minecraft Clone                             (Aug 2020)  [Link Missing] <br>
 
