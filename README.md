@@ -50,10 +50,12 @@ Check out my independent cybersecurity research group [here](https://nmoss.pages
 - 'Gambit' - A Rescue and Recovery Bot    (Apr 2022)   [Available in repo]<br>
 - 'Mains to Dual DC 12V Power Supply'     (Aug 2022)   [Link Missing]<br>
 - '8-bit Computer Simulation + Breadboard Implementation'  (Sep 2022)   [Work in progress...] <br>
+Updates pending.
 
 ### Software Projects:
 - L-Layer Regression Deep Learning Model (June 2020) [Link Missing] <br>
 - [Space Simulator with Unity Engine](https://github.com/IrfanNafiz/Space-Sim-Prototype) (June 2020) <br>
 - A 3D platformer game with BulletTime mechanics in Unity (June 2020) [Link Missing] <br>
 - Voxel based Minecraft Clone                             (Aug 2020)  [Link Missing] <br>
+Updates pending.
 
