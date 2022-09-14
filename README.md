@@ -27,7 +27,7 @@
 - [ ] Finish atleast 1 HTB Machine
 - [ ] Stop procrastinating on my 8-bit computer project haha
 - [ ] Finish Incident Response and Forensics from TryHackMe
-- [ ] Slowly but surely note down all ctf writeups I completed (1/day)
+- [ ] Document CTF writeups (1/day)
 
 ### Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irfanislive) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irfannafizshahan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCMYMyi-OSuUjkStrzN4bdsA) 
