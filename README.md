@@ -53,7 +53,7 @@ Check out my independent cybersecurity research group [here](https://nmoss.pages
 
 ### Software Projects:
 - L-Layer Regression Deep Learning Model (June 2020) [Link Missing] <br>
-- Space Simulator with Unity Engine         (June 2020) [Link](https://github.com/IrfanNafiz/Space-Sim-Prototype)]<br>
+- Space Simulator with Unity Engine         (June 2020) [Link](https://github.com/IrfanNafiz/Space-Sim-Prototype)<br>
 - A 3D platformer game with BulletTime mechanics in Unity (June 2020) [Link Missing] <br>
 - Voxel based Minecraft Clone                             (Aug 2020)  [Link Missing] <br>
 
