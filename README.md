@@ -19,6 +19,7 @@
 - [x] Learn LTSpice Simulation 
 - [ ] Learn COMSOL Multiphysics Simulation 
 - [ ] Learn Lumerical Photonics Simulation 
+- [ ] Learn Altium Designer
 - [ ] Work on creating a medical imaging CNN ML model
 - [x] Learn to use SchemDraw python
 - [ ] Finish EMFW book by David K Cheng - 2/11 Chapters Down
