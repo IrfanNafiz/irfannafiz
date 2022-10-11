@@ -22,7 +22,7 @@
 - [ ] Learn Altium Designer
 - [ ] Work on creating a medical imaging CNN ML model
 - [x] Learn to use SchemDraw python
-- [ ] Finish EMFW book by David K Cheng - 2/11 Chapters Down
+- [ ] Finish EMFW book by David K Cheng - 4/11 Chapters Down
 - [ ] Read 5 papers on MicroArch Security - 2/5 Papers Down
 - [ ] Learn Verilog/VDHL 
 - [ ] Finish atleast 1 HTB Machine
