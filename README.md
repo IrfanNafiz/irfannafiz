@@ -28,6 +28,7 @@
 - [ ] Finish atleast 1 HTB Machine
 - [ ] Stop procrastinating on my 8-bit computer project haha
 - [ ] Finish Incident Response and Forensics from TryHackMe
+- [ ] Complete CryptoHack challenges (3/week)
 - [ ] Document CTF writeups (1/week)
 - [ ] Upload all my code (1/week)
 
