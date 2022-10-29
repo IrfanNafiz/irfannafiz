@@ -48,6 +48,7 @@
 
 | Contests (National)      | Rank   | Team  |
 | ------------------------ | ------ | ----- |
+| FlagHunt '22 Finals [On-site]       | 14th    | NMOSS |
 | FlagHunt '22 Quals       | 6th    | NMOSS |
 | UCD '22                  | 40th   | NMOSS |
 
