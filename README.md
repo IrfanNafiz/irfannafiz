@@ -28,7 +28,7 @@
 - [ ] Finish atleast 1 HTB Machine
 - [ ] Finish Incident Response and Forensics from TryHackMe
 - [x] Organize the first campus CTF in SUST!
-- [x] Participate in NASA Space Apps Challenge 2022 [Naitonal Champion and Global Nominee!]
+- [x] Participate in NASA Space Apps Challenge 2022 [National Champion and Global Nominee!]
 
 ### Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irfanislive) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irfannafizshahan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCMYMyi-OSuUjkStrzN4bdsA) 
