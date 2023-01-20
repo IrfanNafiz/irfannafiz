@@ -15,13 +15,13 @@
 - ⚡ Fun fact: **I love working out, playing videogames and chilling out with some good tea by the side!**
 
 <details close>
-<summary>### TODOs for Q4 2022: </summary>
+<summary><bold> TODOs for Q4 2022: </bold></summary>
 <br>
-- [x] Learn LTSpice Simulation 
-- [x] Learn to use SchemDraw python
-- [x] Finish EMFW book by David K Cheng - 5/11 Chapters Down
-- [x] Organize the first campus CTF in SUST!
-- [x] Participate in NASA Space Apps Challenge 2022 [National Champion and Global Nominee!]
+- [x] Learn LTSpice Simulation <br>
+- [x] Learn to use SchemDraw python <br>
+- [x] Finish EMFW book by David K Cheng - 8/8 Chapters Down <br>
+- [x] Organize the first campus CTF in SUST! <br>
+- [x] Participate in NASA Space Apps Challenge 2022 [National Champion and Global Nominee!] <br>
 </details>
 
 [//]: # ([ ] or [x])
