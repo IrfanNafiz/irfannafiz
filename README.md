@@ -14,21 +14,32 @@
 - 💬 Ping me about **anything**<br>
 - ⚡ Fun fact: **I love working out, playing videogames and chilling out with some good tea by the side!**
 
+<details close>
+<summary>### TODOs for Q4 2022: </summary>
+<br>
+- [x] Learn LTSpice Simulation 
+- [x] Learn to use SchemDraw python
+- [x] Finish EMFW book by David K Cheng - 5/11 Chapters Down
+- [x] Organize the first campus CTF in SUST!
+- [x] Participate in NASA Space Apps Challenge 2022 [National Champion and Global Nominee!]
+</details>
+
 [//]: # ([ ] or [x])
 ### TODOs for Q4 2022: 
 - [x] Learn LTSpice Simulation 
+- [x] Learn to use SchemDraw python
+- [x] Finish EMFW book by David K Cheng - 5/11 Chapters Down
+- [x] Organize the first campus CTF in SUST!
+- [x] Participate in NASA Space Apps Challenge 2022 [National Champion and Global Nominee!]
+
+### TODOs for Q1 2023: 
 - [ ] Learn COMSOL Multiphysics Simulation 
 - [ ] Learn Lumerical Photonics Simulation 
 - [ ] Learn Altium Designer
 - [ ] Work on creating a medical imaging CNN ML model
-- [x] Learn to use SchemDraw python
-- [ ] Finish EMFW book by David K Cheng - 5/11 Chapters Down
-- [ ] Read 5 papers on MicroArch Security - 3/5 Papers Down
 - [ ] Learn Verilog/VDHL 
 - [ ] Finish atleast 1 HTB Machine
 - [ ] Finish Incident Response and Forensics from TryHackMe
-- [x] Organize the first campus CTF in SUST!
-- [x] Participate in NASA Space Apps Challenge 2022 [National Champion and Global Nominee!]
 
 ### Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irfanislive) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irfannafizshahan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCMYMyi-OSuUjkStrzN4bdsA) 
