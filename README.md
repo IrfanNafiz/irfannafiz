@@ -14,16 +14,6 @@
 - 💬 Ping me about **anything**<br>
 - ⚡ Fun fact: **I love working out, playing videogames and chilling out with some good tea by the side!**
 
-<details close>
-<summary><bold> TODOs for Q4 2022: </bold></summary>
-<br>
-- [x] Learn LTSpice Simulation <br>
-- [x] Learn to use SchemDraw python <br>
-- [x] Finish EMFW book by David K Cheng - 8/8 Chapters Down <br>
-- [x] Organize the first campus CTF in SUST! <br>
-- [x] Participate in NASA Space Apps Challenge 2022 [National Champion and Global Nominee!] <br>
-</details>
-
 [//]: # ([ ] or [x])
 ### TODOs for Q4 2022: 
 - [x] Learn LTSpice Simulation 
@@ -40,6 +30,9 @@
 - [ ] Learn Verilog/VDHL 
 - [ ] Finish atleast 1 HTB Machine
 - [ ] Finish Incident Response and Forensics from TryHackMe
+- [ ] Start working on the StarTracker Project
+- [ ] Start working on a Power Electronics Project [AI Based Load Distribution]
+- [ ] Learn to program Assembly on an Intel 8081 Processor
 
 ### Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irfanislive) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irfannafizshahan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCMYMyi-OSuUjkStrzN4bdsA) 
