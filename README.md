@@ -18,7 +18,7 @@
 ### TODOs for Q4 2022: 
 - [x] Learn LTSpice Simulation 
 - [x] Learn to use SchemDraw python
-- [x] Finish EMFW book by David K Cheng - 5/11 Chapters Down
+- [x] Finish EMFW book by David K Cheng - 8/8 Chapters Down
 - [x] Organize the first campus CTF in SUST!
 - [x] Participate in NASA Space Apps Challenge 2022 [National Champion and Global Nominee!]
 
