@@ -7,8 +7,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=2000&pause=500&color=2285F7&width=435&lines=ElectE+Undergrad;Hacker;Robotician;CyberSec+Enthusiast;ML%2FAI+Enthusiast)](https://git.io/typing-svg)
 
-[Web Portfolio](https://irfannafiz.github.io/)
-
 ### Bio:
 - 🏢 I'm currently a sophomore at Shahjalal University of Science & Technology<br>
 - 👯 Looking to collaborate on **research/projects in CyberSecurity, Robotics, Hardware Security and Machine Learning**<br>
