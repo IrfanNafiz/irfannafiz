@@ -30,8 +30,7 @@
 - [ ] Learn Verilog/VDHL 
 - [ ] Finish atleast 1 HTB Machine
 - [ ] Finish Incident Response and Forensics from TryHackMe
-- [ ] Start working on the StarTracker Project
-- [ ] Start working on a Power Electronics Project [AI Based Load Distribution]
+- [ ] Start working on 2 projects [confidential]
 - [ ] Learn to program Assembly on an Intel 8081 Processor
 
 ### Socials:
