@@ -41,17 +41,18 @@
 ### Recent CTF Hacker Rankings: 
 | Contests (International) | Rank   | Team  |
 | ------------------------ | ------ | ----- |
+| HTB: CyberApocalyse '23  | 179th  | NMOSS  |
 | SHELLCTF '22             | 156th  | Solo  |
 | GoogleCTF '22            | 235th  | NMOSS |
 | CorCTF '22               | 287th  | Solo  |
 | ASCWG '22                | 220th  | Solo  |
-| HTB: CyberApocalyse '22  | 970th  | NMOSS |
+| HTB: CyberApocalyse '22  | 790th  | NMOSS |
 
-| Contests (National)      | Rank   | Team  |
-| ------------------------ | ------ | ----- |
-| FlagHunt '22 Finals [On-site]       | 14th    | NMOSS |
-| FlagHunt '22 Quals       | 6th    | NMOSS |
-| UCD '22                  | 40th   | NMOSS |
+| Contests (National)                 | Rank   | Team  |
+| ----------------------------------- | ------ | ----- |
+| FlagHunt '22 Finals [On-site]       | 14th   | NMOSS |
+| FlagHunt '22 Quals                  | 6th    | NMOSS |
+| UCD '22                             | 40th   | NMOSS |
 
 See all rankings on CTFtime.org [here](https://ctftime.org/team/187336). <br>
 Check out my independent cybersecurity research group [here](https://nmoss.pages.dev).
