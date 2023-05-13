@@ -22,11 +22,11 @@
 - [x] Organize the first campus CTF in SUST!
 - [x] Participate in NASA Space Apps Challenge 2022 [National Champion and Global Nominee!]
 
-### TODOs for Q1 2023: 
+### TODOs for 2023: 
 - [ ] Learn COMSOL Multiphysics Simulation 
 - [ ] Learn Lumerical Photonics Simulation 
 - [ ] Learn Altium Designer
-- [ ] Work on creating a medical imaging CNN ML model
+- [ ] Complete DL Specialization
 - [ ] Learn Verilog/VDHL 
 - [ ] Finish atleast 1 HTB Machine
 - [ ] Finish Incident Response and Forensics from TryHackMe
