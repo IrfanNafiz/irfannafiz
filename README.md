@@ -41,6 +41,7 @@
 ### Recent CTF Hacker Rankings: 
 | Contests (International) | Rank   | Team  |
 | ------------------------ | ------ | ----- |
+| BDSEC CTF'23             | 214th  | exam_ase_tai  |
 | HTB: CyberApocalyse '23  | 179th  | NMOSS  |
 | SHELLCTF '22             | 156th  | Solo  |
 | GoogleCTF '22            | 235th  | NMOSS |
