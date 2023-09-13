@@ -23,15 +23,15 @@
 - [x] Participate in NASA Space Apps Challenge 2022 [National Champion and Global Nominee!]
 
 ### TODOs for 2023: 
-- [ ] Learn COMSOL Multiphysics Simulation 
-- [ ] Learn Lumerical Photonics Simulation 
+- [x] Learn EmbeddedML and Edge Impulse integration 
+- [x] Learn hyperparameter tuning 
 - [ ] Learn Altium Designer
-- [ ] Complete DL Specialization
-- [ ] Learn Verilog/VDHL 
+- [ ] Complete DL Specialization [2/5 courses down]
+- [ ] Learn Verilog/VDHL [in progress] 
 - [ ] Finish atleast 1 HTB Machine
 - [ ] Finish Incident Response and Forensics from TryHackMe
-- [ ] Start working on 2 projects [confidential]
-- [ ] Learn to program Assembly on an Intel 8081 Processor
+- [x] Start working on 2 projects [confidential] [2/2]
+- [ ] Learn to program Assembly on an Intel 8086 Processor using 8086emu [in progress]
 
 ### Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irfanislive) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irfannafizshahan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCMYMyi-OSuUjkStrzN4bdsA) 
