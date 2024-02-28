@@ -8,30 +8,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=2000&pause=500&color=2285F7&width=435&lines=ElectE+Undergrad;Hacker;Robotician;CyberSec+Enthusiast;ML%2FAI+Enthusiast)](https://git.io/typing-svg)
 
 ### Bio:
-- 🏢 I'm currently a 3rd Year Undergraduate at Shahjalal University of Science & Technology<br>
-- 👯 Looking to collaborate on **research/projects in CyberSecurity, Robotics, Hardware Security and Machine Learning**<br>
-- 🌱 Currently learning **Deep Learning, and Embedded Machine Learning** for **Autonomous Vehicle** purposes.<br>
-- 💬 Ping me about **anything**<br>
-- ⚡ Fun fact: **I love working out, playing videogames and chilling out with some good tea by the side!**
-
-[//]: # ([ ] or [x])
-### TODOs for Q4 2022: 
-- [x] Learn LTSpice Simulation 
-- [x] Learn to use SchemDraw python
-- [x] Finish EMFW book by David K Cheng - 8/8 Chapters Down
-- [x] Organize the first campus CTF in SUST!
-- [x] Participate in NASA Space Apps Challenge 2022 [National Champion and Global Nominee!]
-
-### TODOs for 2023: 
-- [x] Learn EmbeddedML and Edge Impulse integration 
-- [x] Learn hyperparameter tuning 
-- [ ] Learn Altium Designer
-- [ ] Complete DL Specialization [2/5 courses down]
-- [ ] Learn Verilog/VDHL [in progress] 
-- [ ] Finish atleast 1 HTB Machine
-- [ ] Finish Incident Response and Forensics from TryHackMe
-- [x] Start working on 2 projects [confidential] [2/2]
-- [ ] Learn to program Assembly on an Intel 8086 Processor using 8086emu [in progress]
+- 🏢 I'm currently a Final Year Student studying Electrical and Electronics Engineering at Shahjalal University of Science & Technology<br>
+- 👯 Looking to collaborate on **research/projects in Robotics, Computer Vision and Machine Learning**<br>
+- 🌱 Currently learning **Deep Learning and Embedded Machine Learning** for **Autonomous Vehicle** purposes.<br>
+- ⚡ Fun fact: **I love teaching, working out, playing videogames (oldschool rts fan) and chilling out with some good tea by the side!**
 
 ### Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irfanislive) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irfannafizshahan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCMYMyi-OSuUjkStrzN4bdsA) 
@@ -58,15 +38,16 @@
 See all rankings on CTFtime.org [here](https://ctftime.org/team/187336). <br>
 Check out my independent cybersecurity research group [here](https://nmoss.pages.dev).
 
-### Hardware Projects:
-- 'Gambit' - A Rescue and Recovery Bot    (Apr 2022)   [Available in repo]<br>
-- 'Mains to Dual DC 12V Power Supply'     (Aug 2022)   [Link Missing]<br>
+### Recent Projects:
+- 'TinyRecycler' - A Embedded ML Trash Segregator    (Jan 2024)   [Link Missing]<br>
+- 'SUST-1' - An amateur cubesat (first of it's kind for my uni)      (Jan 2024)   [Link Missing]<br>
+- 'A Detection Transformer based Approach to Bangladesh Road Vehicle Detection' (Top 10 in DL Enigma 1.0 Kaggle) (Feb 2024) [Link Missing]<br>
 - '8-bit Computer Simulation + Breadboard Implementation'  (Sep 2022)   [Work in progress...] <br>
+- [Space Simulator with Unity Engine](https://github.com/IrfanNafiz/Space-Sim-Prototype) (June 2020 - Oct 2022) <br>
 Updates pending.
 
-### Software Projects:
-- L-Layer Regression Deep Learning Model (June 2020) [Link Missing] <br>
-- [Space Simulator with Unity Engine](https://github.com/IrfanNafiz/Space-Sim-Prototype) (June 2020) <br>
+### Old Projects: (Meh)
+- 'Gambit' - A rescue and recovery bot (Aug 2022) <br> 
 - A 3D platformer game with BulletTime mechanics in Unity (June 2020) [Link Missing] <br>
 - Voxel based Minecraft Clone                             (Aug 2020)  [Link Missing] <br>
 Updates pending.
