@@ -3,9 +3,9 @@
 
 [//]: # (<meta name="google-site-verification" content="uvxi10l8J-97LmEIjcdHjehpRowt0oygUn6lnn8lfCc" />)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Irfan Nafiz Shahan</h1>
+[//]: # <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Irfan Nafiz Shahan</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=2000&pause=500&color=2285F7&width=435&lines=ElectE+Undergrad;Hacker;Robotician;CyberSec+Enthusiast;ML%2FAI+Enthusiast)](https://git.io/typing-svg)
+[//]: # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=2000&pause=500&color=2285F7&width=435&lines=ElectE+Undergrad;Hacker;Robotician;CyberSec+Enthusiast;ML%2FAI+Enthusiast)](https://git.io/typing-svg)
 
 ### Bio:
 - 🏢 I'm currently a Final Year Student studying Electrical and Electronics Engineering at Shahjalal University of Science & Technology<br>
