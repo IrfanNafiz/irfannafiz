@@ -6,7 +6,7 @@
 ### Bio:
 - I'm currently a Final Year Student studying Electrical and Electronics Engineering at Shahjalal University of Science & Technology<br>
 - I research Robotics, Computer Vision and SmallSats**<br>
-- Currently learning **Deep Learning and Embedded Machine Learning** for **Autonomous Vehicle** purposes.<br>
+- Currently I'm working on Synthetic Data for Autonomous Driving Research<br>
 - I love badminton, teaching, working out, playing videogames (oldschool rts fan) and chilling out with some good tea by the side!
 
 ### Socials:
