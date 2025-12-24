@@ -4,10 +4,10 @@
 [//]: # (<meta name="google-site-verification" content="uvxi10l8J-97LmEIjcdHjehpRowt0oygUn6lnn8lfCc" />)
 
 ### Bio:
-- I'm currently a Final Year Student studying Electrical and Electronics Engineering at Shahjalal University of Science & Technology<br>
+- I'm an electrical engineer from Shahjalal University of Science and Technology (SUST), Bangladesh.<br>
 - I research Robotics, Computer Vision and SmallSats**<br>
-- Currently I'm working on Synthetic Data for Autonomous Driving Research<br>
-- I love badminton, teaching, working out, playing videogames (oldschool rts fan) and chilling out with some good tea by the side!
+- Currently I'm serving as a research assistant in SUST under Dr. Md. Rasedujjaman. I am also a researcher under the supervision of Dr. Arpan Kusari, University of Michigan, Ann Arbor.<br>
+- I love badminton, teaching, working out, playing videogames (oldschool rts fan) and chilling out with some good tea by the side will working on painting and playing guitar!
 
 ### Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irfanislive) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irfannafizshahan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCMYMyi-OSuUjkStrzN4bdsA) 
