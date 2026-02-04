@@ -7,7 +7,7 @@
 - I'm an electrical engineer from Shahjalal University of Science and Technology (SUST), Bangladesh.<br>
 - I research Robotics, Computer Vision and SmallSats**<br>
 - Currently I'm serving as a research assistant in SUST under Dr. Md. Rasedujjaman. I am also a researcher under the supervision of Dr. Arpan Kusari, University of Michigan, Ann Arbor.<br>
-- I love badminton, teaching, working out, playing videogames (oldschool rts fan) and chilling out with some good tea by the side will working on painting and playing guitar!
+- I love badminton, teaching, working out, playing videogames (oldschool rts fan) and chilling out with some good tea by the side!
 
 ### Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irfanislive) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irfannafizshahan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCMYMyi-OSuUjkStrzN4bdsA) 
