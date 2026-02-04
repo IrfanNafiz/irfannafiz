@@ -9,6 +9,8 @@
 - Currently I'm serving as a research assistant in SUST under Dr. Md. Rasedujjaman. I am also a researcher under the supervision of Dr. Arpan Kusari, University of Michigan, Ann Arbor.<br>
 - I love badminton, teaching, working out, playing videogames (oldschool rts fan) and chilling out with some good tea by the side!
 
+NOTE: This github readme is vastly outdated so I encourage visiting my personal website or google scholar for latest updates.
+
 ### Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irfanislive) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irfannafizshahan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCMYMyi-OSuUjkStrzN4bdsA) 
 
